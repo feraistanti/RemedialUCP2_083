@@ -38,12 +38,12 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
-import com.example.QuestFirebase.R
-import com.example.questfirebase_083.modeldata.Buku
-import com.example.questfirebase_083.view.route.DestinasiHome
-import com.example.questfirebase_083.viewmodel.HomeViewModel
-import com.example.questfirebase_083.viewmodel.PenyediaViewModel
-import com.example.questfirebase_083.viewmodel.StatusUiBuku
+import com.example.remedialucp2_083.R
+import com.example.remedialucp2_083.modeldata.Buku
+import com.example.remedialucp2_083.view.route.DestinasiHome
+import com.example.remedialucp2_083.viewmodel.HomeViewModel
+import com.example.remedialucp2_083.viewmodel.PenyediaViewModel
+import com.example.remedialucp2_083.viewmodel.StatusUiBuku
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable

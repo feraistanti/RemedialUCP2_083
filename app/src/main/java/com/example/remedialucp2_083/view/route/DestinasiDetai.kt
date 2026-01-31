@@ -1,6 +1,7 @@
-package com.example.remedialucp2_083.view
+package com.example.remedialucp2_083.view.route
 
 import com.example.remedialucp2_083.R
+import com.example.remedialucp2_083.view.route.DestinasiNavigasi
 
 object DestinasiDetail : DestinasiNavigasi {
     override val route = "detail_buku"

@@ -1,4 +1,6 @@
-package com.example.remedialucp2_083.view
+package com.example.remedialucp2_083.view.route
+
+import com.example.remedialucp2_083.view.route.DestinasiNavigasi
 
 object DestinasiHome : DestinasiNavigasi {
     override val route = "home"

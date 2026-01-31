@@ -1,9 +1,9 @@
 package com.example.remedialucp2_083.view.ControlNavigasi
 
 import androidx.compose.runtime.Composable
-import com.example.remedialucp2_083.view.DestinasiDetail
-import com.example.remedialucp2_083.view.DestinasiEntry
-import com.example.remedialucp2_083.view.DestinasiHome
+import com.example.remedialucp2_083.view.route.DestinasiDetail
+import com.example.remedialucp2_083.view.route.DestinasiEntry
+import com.example.remedialucp2_083.view.route.DestinasiHome
 
 @Composable
 fun DataBukuApp(
